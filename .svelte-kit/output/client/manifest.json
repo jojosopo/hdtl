@@ -1,0 +1,20 @@
+{
+  "name": "Hinckley Bowls League",
+  "short_name": "HDTL",
+  "start_url": "/",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "Hdtl512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "Hdtl192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "background_color": "#488aff",
+  "theme_color": "#488aff"
+}
